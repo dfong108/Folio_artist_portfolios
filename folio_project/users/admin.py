@@ -5,6 +5,6 @@ from .models import *
 
 admin.site.register(Artist)
 admin.site.register(Gallery)
-admin.site.register(GalleryEntry)
-# admin.site.register(Artist)
+# admin.site.register(GalleryEntry)
+# admin.site.register(EntryFile)
 # admin.site.register(Gallery)
